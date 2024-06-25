@@ -15,7 +15,7 @@
 		    上传图片
 		  </el-button>
 		</el-upload>
-      
+
       <el-button @click="drawImage" icon="el-icon-camera" size="small">
         拍照
       </el-button>

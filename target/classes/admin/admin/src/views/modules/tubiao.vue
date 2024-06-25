@@ -1,6 +1,6 @@
 <template>
   <div class="content" :style='{"padding":"30px"}'>
-    <div class="text" :style='{"margin":"50px auto","fontSize":"24px","color":"rgb(51, 51, 51)","textAlign":"center","fontWeight":"bold"}'>欢迎来到</div>
+    <div class="text" :style='{"margin":"50px auto","fontSize":"24px","color":"rgb(51, 51, 51)","textAlign":"center","fontWeight":"bold"}'>欢迎使用零售店管理系统</div>
   </div>
 </template>
 

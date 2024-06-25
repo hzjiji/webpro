@@ -1,4 +1,4 @@
-<template>
++<template>
 <div class="center-preview" :style='{"width":"1200px","margin":"10px auto","position":"relative","background":"none"}'>
 	<div class="title" :style='{"padding":"16px 0","margin":"20px 0","borderColor":"#52b646","color":"#52b646","borderRadius":"8px","textAlign":"center","background":"#eff9ee","borderWidth":"4px","fontSize":"24px","lineHeight":"1.5","borderStyle":"dashed dotted solid double"}'>{{ title }}</div>
 

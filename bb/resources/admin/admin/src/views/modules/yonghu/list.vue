@@ -1,3 +1,4 @@
+
 <template>
 	<div class="main-content" :style='{"padding":"0"}'>
 		<!-- 列表页 -->

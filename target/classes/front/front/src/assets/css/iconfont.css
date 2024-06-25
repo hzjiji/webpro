@@ -12,11 +12,10 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
   .icon-iconfontzan:before {
     content: "\e6cb";
   }
-  
+
   .icon-dianzan:before {
     content: "\e618";
   }

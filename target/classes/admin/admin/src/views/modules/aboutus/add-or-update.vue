@@ -171,7 +171,8 @@ export default {
 			
 			ruleForm: {
 				title: '',
-				subtitle: '',
+
+        subtitle: '',
 				content: '',
 				picture1: '',
 				picture2: '',

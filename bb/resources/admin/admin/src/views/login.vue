@@ -19,7 +19,6 @@
           <el-button v-if="loginType==1" :style='{"border":"0","cursor":"pointer","padding":"0 24px","boxShadow":"0px 4px 10px 0px #CFD5F8","margin":"0 10px 10px","outline":"none","color":"#fff","borderRadius":"0","background":"rgba(63, 168, 196, 1)","width":"100%","fontSize":"24px","height":"60px"}' type="primary" @click="login()" class="loginInBt">登录</el-button>
         </div>
       </el-form>
-
     </div>
   </div>
 </template>
